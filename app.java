@@ -1,3 +1,3 @@
-public class java{
-    System.Out.println("Hello world!");
+public class add{
+    System.Out.println("sum of two numbers is : (a+b)");
 }
